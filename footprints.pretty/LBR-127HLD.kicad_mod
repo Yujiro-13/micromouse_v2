@@ -43,4 +43,9 @@
   (pad "2" thru_hole circle (at -1.27 9.6) (size 1.5 1.5) (drill 0.6) (layers "*.Cu" "*.Mask") (tstamp 2caffc10-d5ee-4e14-a993-9a6c36e3c9d5))
   (pad "3" thru_hole circle (at 1.27 6.6) (size 1.5 1.5) (drill 0.6) (layers "*.Cu" "*.Mask") (tstamp 1251157c-4878-43c0-888d-2f355bc1b565))
   (pad "4" thru_hole circle (at -1.27 6.6) (size 1.5 1.5) (drill 0.6) (layers "*.Cu" "*.Mask") (tstamp e8a19bd2-fd6a-45d0-8296-d35a318dca49))
+  (model "${KIPRJMOD}/footprints.pretty/sensor_cover.step"
+    (offset (xyz -2.25 -5.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
