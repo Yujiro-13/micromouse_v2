@@ -59,7 +59,20 @@
   (pad "22" smd rect (at -0.2 -1.5) (size 0.2 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 64094379-499d-4bdb-83cb-bc24f3807901))
   (pad "23" smd rect (at -0.6 -1.5) (size 0.2 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9b1a9440-5957-467d-9b88-135eb142ef2b))
   (pad "24" smd rect (at -1 -1.5625) (size 0.2 0.625) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0b504d43-c9e0-403b-b675-578c5d6ea008))
-  (pad "25" smd rect (at 0 0) (size 1.59 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3b85d8be-6d61-48a0-9749-a7cc52c562d8))
+  (zone (net 0) (net_name "") (layers "*.Cu") (tstamp 85b9f57a-372c-4ac3-b428-9367912e5599) (hatch edge 0.5)
+    (connect_pads (clearance 0))
+    (min_thickness 0.25) (filled_areas_thickness no)
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
+    (polygon
+      (pts
+        (xy 1.1176 -1.1176)
+        (xy 1.1176 1.1176)
+        (xy -1.1176 1.1176)
+        (xy -1.1176 -1.1176)
+      )
+    )
+  )
   (model "MPU-6500.stp"
     (offset (xyz 0 0 0.05999999776))
     (scale (xyz 1 1 1))

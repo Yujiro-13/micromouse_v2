@@ -18,5 +18,4 @@
   (lib (name "2023-10-16_11-46-38")(type "KiCad")(uri "${KIPRJMOD}/symbol/2023-10-16_11-46-38.kicad_sym")(options "")(descr ""))
   (lib (name "pesd3v3l4uf")(type "KiCad")(uri "${KIPRJMOD}/symbol/pesd3v3l4uf.kicad_sym")(options "")(descr ""))
   (lib (name "PESD3V3L2UM,315")(type "KiCad")(uri "${KIPRJMOD}/symbol/PESD3V3L2UM,315.kicad_sym")(options "")(descr ""))
-  (lib (name "Espressif")(type "KiCad")(uri "C:/Users/81807/Downloads/kicad-libraries-main/kicad-libraries-main/symbols/Espressif.kicad_sym")(options "")(descr ""))
 )

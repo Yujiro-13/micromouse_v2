@@ -1,6 +1,4 @@
 (fp_lib_table
   (version 7)
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
-  (lib (name "ul_MCM3400A-TP")(type "KiCad")(uri "C:/Users/81807/Downloads/ul_MCM3400A-TP/KiCADv6/ul_MCM3400A-TP.pretty")(options "")(descr ""))
-  (lib (name "Espressif")(type "KiCad")(uri "C:/Users/81807/Downloads/kicad-libraries-main/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
 )
