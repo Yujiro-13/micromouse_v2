@@ -1,4 +1,4 @@
-22241084014888905
+22254782433779436
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91896,6 +91896,13 @@ MCM3400A-TP
 8
 6
 footprints
+DMG3415U
+
+
+0
+3
+3
+footprints
 DRV8835DSSR
 DRV8835DSSR-4
 Integrated Circuit
@@ -91952,6 +91959,27 @@ Integrated Circuit
 57
 57
 footprints
+QFN56_7X7_EXP
+
+ESP32-S3-PICO-1-N8R2 
+0
+57
+57
+footprints
+QFN56_7X7_EXP-L
+
+ESP32-S3-PICO-1-N8R2 
+0
+57
+57
+footprints
+QFN56_7X7_EXP-M
+
+ESP32-S3-PICO-1-N8R2 
+0
+57
+57
+footprints
 SMT-0440-S-R_PUI
 
 SMT-0440-S-R 
@@ -91962,6 +91990,13 @@ footprints
 SOD-963   CST2C_TOS
 
 CCS15S40_L3F 
+0
+2
+2
+footprints
+SOD3715X145N
+
+
 0
 2
 2
@@ -91979,6 +92014,13 @@ Integrated Circuit
 0
 14
 14
+footprints
+SOT95P240X105-3N
+
+
+0
+3
+3
 footprints
 SSSS810701
 SSSS810701
@@ -92008,9 +92050,23 @@ WURTH_614105150721
 7
 6
 footprints
+ZX62R-B-5P_30_
+ZX62R-B-5P(30)
+Connector
+0
+11
+11
+footprints
 encoder_footprint
 
 
 0
 6
 6
+footprints
+power_SMD
+
+
+0
+2
+2
