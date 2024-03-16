@@ -26,4 +26,5 @@
   (lib (name "DMG3415U-7")(type "KiCad")(uri "${KIPRJMOD}/symbol/DMG3415U-7.kicad_sym")(options "")(descr ""))
   (lib (name "2024-03-13_05-36-02")(type "KiCad")(uri "${KIPRJMOD}/symbol/2024-03-13_05-36-02.kicad_sym")(options "")(descr ""))
   (lib (name "2024-03-13_05-35-26")(type "KiCad")(uri "${KIPRJMOD}/symbol/2024-03-13_05-35-26.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-03-16_04-29-54")(type "KiCad")(uri "${KIPRJMOD}/symbol/2024-03-16_04-29-54.kicad_sym")(options "")(descr ""))
 )
