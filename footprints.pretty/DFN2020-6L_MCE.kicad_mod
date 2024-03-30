@@ -154,4 +154,9 @@
   (pad "6" smd rect (at 0 -0.52) (size 1.09 0.69) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 8595aac6-35e6-48c7-b430-b4b3bf1b0317))
   (pad "6" smd rect (at 1.04175 -0.649986 90) (size 0.3048 0.5835) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7e86bf0a-af2d-4654-a2f9-5cb6082c3fff))
+  (model "${KIPRJMOD}/footprints.pretty/DFN2020-6L_MCE.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -303,4 +303,9 @@
   (pad "19" smd rect (at -0.399999 -1.4367) (size 0.2032 0.7334) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3b26c334-b719-4c3c-a24f-f1ddebb5fc2e))
   (pad "20" smd rect (at -0.800001 -1.4367) (size 0.2032 0.7334) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f6487301-3ef4-4c11-b4bd-0847f472ec93))
   (pad "21" smd rect (at 0 0) (size 1.8034 1.8034) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b376c92b-3985-4017-95d1-1a983091260f))
+  (model "${KIPRJMOD}/footprints.pretty/UQFN20_NC_MCH.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
