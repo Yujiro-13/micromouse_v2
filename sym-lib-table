@@ -31,4 +31,5 @@
   (lib (name "SiA519")(type "KiCad")(uri "${KIPRJMOD}/symbol/SiA519.kicad_sym")(options "")(descr ""))
   (lib (name "ADS7066IRTER")(type "KiCad")(uri "${KIPRJMOD}/symbol/ADS7066IRTER.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-S3-MINI-1-N8")(type "KiCad")(uri "${KIPRJMOD}/symbol/ESP32-S3-MINI-1-N8.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-08-17_15-38-39")(type "KiCad")(uri "${KIPRJMOD}/symbol/2024-08-17_15-38-39.kicad_sym")(options "")(descr ""))
 )

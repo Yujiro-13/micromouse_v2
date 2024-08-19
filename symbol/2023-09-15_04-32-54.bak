@@ -24,6 +24,14 @@
     (symbol "SSM6J808R_LXHF_0_1"
       (polyline
         (pts
+          (xy 7.62 -10.16)
+          (xy 22.86 -10.16)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
           (xy 7.62 -5.08)
           (xy 10.16 -5.08)
         )
@@ -42,6 +50,14 @@
         (pts
           (xy 7.62 0)
           (xy 8.89 0)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 2.54)
+          (xy 7.62 -10.16)
         )
         (stroke (width 0.127) (type default))
         (fill (type none))
@@ -240,6 +256,14 @@
       )
       (polyline
         (pts
+          (xy 22.86 -10.16)
+          (xy 22.86 2.54)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
           (xy 22.86 -2.54)
           (xy 21.59 -2.54)
         )
@@ -250,6 +274,14 @@
         (pts
           (xy 22.86 0)
           (xy 21.59 0)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 22.86 2.54)
+          (xy 7.62 2.54)
         )
         (stroke (width 0.127) (type default))
         (fill (type none))
@@ -302,10 +334,6 @@
       )
     )
     (symbol "SSM6J808R_LXHF_1_1"
-      (rectangle (start 7.62 2.54) (end 22.86 -10.16)
-        (stroke (width 0) (type default))
-        (fill (type background))
-      )
       (pin unspecified line (at 0 0 0) (length 7.62)
         (name "D1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
