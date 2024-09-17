@@ -41,8 +41,8 @@
     (stroke (width 0.2) (type default)) (layer "User.9") (tstamp 648aa44f-9983-428e-9a9b-a91f43d3a990))
   (pad "1" thru_hole circle (at 1.27 9.6) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 75b56f93-f2d2-495e-96a8-9c3c7e7c2b32))
   (pad "2" thru_hole circle (at -1.27 9.6) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 2caffc10-d5ee-4e14-a993-9a6c36e3c9d5))
-  (pad "3" thru_hole circle (at 1.27 6.6) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 1251157c-4878-43c0-888d-2f355bc1b565))
-  (pad "4" thru_hole circle (at -1.27 6.6) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp e8a19bd2-fd6a-45d0-8296-d35a318dca49))
+  (pad "3" thru_hole circle (at 1.27 7.1) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 1251157c-4878-43c0-888d-2f355bc1b565))
+  (pad "4" thru_hole circle (at -1.27 7.1) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp e8a19bd2-fd6a-45d0-8296-d35a318dca49))
   (model "${KIPRJMOD}/footprints.pretty/sensor_cover.step"
     (offset (xyz -2.25 -5.5 0))
     (scale (xyz 1 1 1))

@@ -1,4 +1,4 @@
-23096204893358916
+23099659411950183
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94438,6 +94438,20 @@ Integrated Circuit
 13
 footprints
 LBR-127HLD
+
+
+0
+4
+4
+footprints
+LBR-127HLD_PAD
+
+
+0
+4
+4
+footprints
+LBR-127HLD_THT
 
 
 0
