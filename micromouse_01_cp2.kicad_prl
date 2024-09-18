@@ -15,14 +15,14 @@
       "zones": 0.6700000166893005
     },
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
       "keepouts": true,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
       "zones": true
